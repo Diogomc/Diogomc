@@ -1,7 +1,6 @@
 # Olá, eu sou o Diogo 👋<h1>
 <ul>
-    <li>🖥️ Procuro me tornar um desenvolvedor Front-End</li>
-     <li>📓 Atualmente estou estudando o Javascript</li>
+    <li>🖥️ Procuro me tornar um desenvolvedor Java</li>
 <br>
 <div style="display: inline-block"<br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
