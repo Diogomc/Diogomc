@@ -16,5 +16,5 @@
 <a href = "mailto:diogo.marcondes2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>   
 <br>
-    ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
