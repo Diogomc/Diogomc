@@ -28,3 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=diogomc&show_icons=true" />
 </picture>
 <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true " </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
