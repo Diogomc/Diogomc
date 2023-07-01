@@ -8,17 +8,6 @@
 <a href = "mailto:diogo.marcondes2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>   
 <br>    
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=diogomc&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=diogomc&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=diogomc&show_icons=true" />
-</picture>
 <h1>Tecnologias que eu uso no meu dia a dia</h1>
     <br>
 <div style="display: inline-block"<br>
