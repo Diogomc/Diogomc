@@ -1,6 +1,7 @@
-# Olá, eu sou o Diogo 👋<h1>
+<h1>Olá, eu sou o Diogo</h1>
 <ul>
     <li>🖥️ Procuro me tornar um desenvolvedor Java</li>
+</ul>
 <br>
 <div>
 <a href="https://www.linkedin.com/in/diogo-marcondes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
