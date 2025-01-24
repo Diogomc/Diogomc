@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Diogo</h1>
 <ul>
-    <h3>🖥️ Procuro me tornar um desenvolvedor Java</h3>
+    <h3>🖥️ Procuro me tornar um desenvolvedor Front-End</h3>
 </ul>
 <br>
 <div>
