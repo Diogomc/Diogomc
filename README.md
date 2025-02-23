@@ -103,6 +103,7 @@ Olá, sou o Diogo e possuo 20 anos. Atualmente estou cursando Engenharia de Soft
 
 ### 📊 Estatísticas
 
+<div style="display:flex">
 <p>
   <img 
     align="left" 
@@ -120,3 +121,4 @@ Olá, sou o Diogo e possuo 20 anos. Atualmente estou cursando Engenharia de Soft
   />
 
 </p>
+</div>
