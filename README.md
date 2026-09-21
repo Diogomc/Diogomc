@@ -6,11 +6,10 @@
 
 <div align="center">
 
-[
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos%3A+C%23+%7C+.NET+%7C+React;Compilando+conhecimento...+100%25;Ol%C3%A1%2C+eu+sou+o+Diogo+%F0%9F%91%8B)
 
-](https://git.io/typing-svg)
 
 </div>
 
