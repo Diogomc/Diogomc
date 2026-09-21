@@ -82,32 +82,6 @@ Gosto de trabalhar tanto na construção de interfaces (**React, TypeScript, HTM
 
 ---
 
-## 📁 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/Diogomc/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=Portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
-  </a>
-  <a href="https://github.com/Diogomc/weatherAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=weatherAPP&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Diogomc/storage-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=storage-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
-  </a>
-  <a href="https://github.com/Diogomc/storage-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=storage-frontend&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Diogomc/KeplerPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=KeplerPlay&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
-  </a>
-</p>
-
----
-
 ## 🎯 Objetivos atuais
 
 ```bash
@@ -131,18 +105,6 @@ diogo@dev-machine:~$ cat objetivos.log
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Diogomc&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=9d4edd&fire=ff006e" />
-</p>
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diogomc&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Diogomc/Diogomc/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
