@@ -46,7 +46,7 @@ Sistema inicializado com sucesso.
 
 > Desenvolvedor apaixonado por transformar ideias em interfaces modernas, rápidas e funcionais.
 
-Sou o **Diogo**, tenho 20 anos e estou cursando **Engenharia de Software**, aprofundando meus estudos em desenvolvimento de aplicações web. Em 2025 concluí minha graduação como tecnólogo em **Análise e Desenvolvimento de Sistemas**, o que me deu uma base sólida em lógica, arquitetura de software e boas práticas de programação.
+Sou o **Diogo**, tenho 22 anos e estou cursando **Engenharia de Software**, aprofundando meus estudos em desenvolvimento de aplicações web. Em 2025 concluí minha graduação como tecnólogo em **Análise e Desenvolvimento de Sistemas**, o que me deu uma base sólida em lógica, arquitetura de software e boas práticas de programação.
 
 Gosto de trabalhar tanto na construção de interfaces (**React, TypeScript, HTML/CSS**) quanto no back-end com **C# e .NET**, e utilizo **Docker** para manter meus ambientes de desenvolvimento organizados e replicáveis.
 
