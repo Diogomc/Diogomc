@@ -21,14 +21,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/diogo-marcondes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+  <a href="mailto:diogo.marcondes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
 </div>
 
 <br>
 
-\`\`\`bash
+```bash
 diogo@dev-machine:~$ ./iniciar_sistema.sh
 
 [OK] Carregando identidade................ Diogo Marcondes
@@ -37,10 +36,10 @@ diogo@dev-machine:~$ ./iniciar_sistema.sh
 [OK] Cursando atual............... Engenharia de Software
 [OK] Cargo........................ Desenvolvedor Front-end
 [OK] Stack detectada.............. C# | .NET | React | TS | JS | Docker
-[OK] Status........................ Pronto para novos desafios 🚀
+[OK] Status........................ Pronto para novos desafios
 
->> Sistema inicializado com sucesso.
-\`\`\`
+Sistema inicializado com sucesso.
+```
 
 ---
 
@@ -79,7 +78,6 @@ Gosto de trabalhar tanto na construção de interfaces (**React, TypeScript, HTM
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
 </p>
 
@@ -88,19 +86,24 @@ Gosto de trabalhar tanto na construção de interfaces (**React, TypeScript, HTM
 ## 📁 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/Diogomc/REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=REPO-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
+  <a href="https://github.com/Diogomc/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=Portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
   </a>
-  <a href="https://github.com/Diogomc/REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=REPO-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
+  <a href="https://github.com/Diogomc/weatherAPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=weatherAPP&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Diogomc/REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=REPO-3&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
+  <a href="https://github.com/Diogomc/storage-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=storage-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
   </a>
-  <a href="https://github.com/Diogomc/REPO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=REPO-4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
+  <a href="https://github.com/Diogomc/storage-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=storage-frontend&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Diogomc/KeplerPlay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogomc&repo=KeplerPlay&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd" />
   </a>
 </p>
 
@@ -108,7 +111,7 @@ Gosto de trabalhar tanto na construção de interfaces (**React, TypeScript, HTM
 
 ## 🎯 Objetivos atuais
 
-\`\`\`bash
+```bash
 diogo@dev-machine:~$ cat objetivos.log
 
 [ ] Aprofundar conhecimento em arquitetura .NET
@@ -116,25 +119,19 @@ diogo@dev-machine:~$ cat objetivos.log
 [ ] Contribuir com projetos open-source
 [ ] Conquistar a primeira vaga como desenvolvedor
 [ ] Evoluir constantemente em boas práticas de código
-
->> tail -f objetivos.log
-\`\`\`
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diogomc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogomc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diogomc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=9d4edd&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogomc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogomc&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=9d4edd&fire=ff006e" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diogomc&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=9d4edd&point=ff006e" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=Diogomc&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=9d4edd&fire=ff006e" />
 </p>
 
 ## 🏆 Troféus
@@ -154,9 +151,8 @@ diogo@dev-machine:~$ cat objetivos.log
 ## 🌐 Redes sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/diogo-marcondes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+  <a href="mailto:diogo.marcondes2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-9d4edd?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
 </p>
 
 <div align="center">
